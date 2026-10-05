@@ -1,7 +1,7 @@
 ![](https://lanyard.cnrad.dev/api/6?bg=0000&hideTag=true)
 
 ```csharp
-root@iosxvv
+root@door
 web  $  offline, data on the website is invalid
 ```
 &zwnj; 
