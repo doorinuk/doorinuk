@@ -21,7 +21,7 @@ web  $  offline, data on the website is invalid
       <ul>
         <li>@</li>
         <li>Not working on anything right now. My most recent project was ""</li>
-        <li>I'm a really tuff dev (i love rust and python!)</li>
+        <li>I'm a really tuff dev who is learning java</li>
       </ul>
     </td>
 </table>
